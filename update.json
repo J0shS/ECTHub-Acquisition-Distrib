@@ -1,6 +1,6 @@
 {
-  "min_supported_version": "0.1.1",
-  "latest_version": "0.1.1",
+  "min_supported_version": "0.1.2",
+  "latest_version": "0.1.2",
   "download_url": "https://github.com/J0shS/ECTHub-Acquisition-Distrib/releases/latest/download/Setup_ECTHub_Acquisition.exe",
-  "message": "Fixed bug that prevented Acquisition spooler from creating CalSlots on EC2 server"
+  "message": "Fix: Preserve nested empty folders end-to-end"
 }
