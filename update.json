@@ -1,6 +1,6 @@
 {
-  "min_supported_version": "0.1.2",
-  "latest_version": "0.1.2",
+  "min_supported_version": "0.2.0",
+  "latest_version": "0.2.0",
   "download_url": "https://github.com/J0shS/ECTHub-Acquisition-Distrib/releases/latest/download/Setup_ECTHub_Acquisition.exe",
-  "message": "Fix: Preserve nested empty folders end-to-end"
+  "message": "Fall 2026 Initial Release"
 }
