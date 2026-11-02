@@ -2,5 +2,5 @@
   "min_supported_version": "0.2.1",
   "latest_version": "0.2.1",
   "download_url": "https://github.com/J0shS/ECTHub-Acquisition-Distrib/releases/latest/download/Setup_ECTHub_Acquisition.exe",
-  "message": "Clearer upload errors: a component not yet set up now says to run the Agent first. Upload totals now add up. Help updated for the new project setup."
+  "message": "Download Project is now disabled for jobs that have no components yet, with a note explaining why."
 }
